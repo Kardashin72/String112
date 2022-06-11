@@ -1,0 +1,6 @@
+﻿  stringMain.cpp
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\string\string\stringMain.cpp(11,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\string\string\stringMain.cpp(41,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\string\string\stringMain.cpp(193,22): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\string\string\stringMain.cpp(259,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  string.vcxproj -> C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\string\x64\Debug\string.exe
